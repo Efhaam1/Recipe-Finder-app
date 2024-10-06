@@ -47,6 +47,19 @@ You can open the app in various ways:
 - **Android Emulator**: Run the app on a virtual Android device.
 - **iOS Simulator**: Test the app on a virtual iOS device.
 - **Expo Go**: Use the Expo Go app on your mobile device to scan the QR code for instant access.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/52e29bc5-9a09-43e9-a43b-dd46dc124a9b)
+
+
+![image](https://github.com/user-attachments/assets/66eaf7c7-4c6f-4bb8-adc8-b597980083ea)
+
+
+![image](https://github.com/user-attachments/assets/e0bfd31e-08c1-490f-a757-94aa49dab07d)
+
+
+
 ## Project Structure
 The project follows a file-based routing structure. The main files and directories include:
 
